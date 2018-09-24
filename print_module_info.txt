@@ -1,0 +1,70 @@
+------------
+String
+------------
+[__add__, __class__, __contains__, __delattr__, __doc__, __eq__, __format__, __ge__, __getattribute__, __getitem__, __getnewargs__, __getslice__, __gt__, __hash__, __init__, __le__, __len__, __lt__, __mod__, __mul__, __ne__, __new__, __reduce__, __reduce_ex__, __repr__, __rmod__, __rmul__, __setattr__, __sizeof__, __str__, __subclasshook__, _formatter_field_name_split, _formatter_parser, capitalize, center, count, decode, encode, endswith, expandtabs, find, format, index, isalnum, isalpha, isdigit, islower, isspace, istitle, isupper, join, ljust, lower, lstrip, partition, replace, rfind, rindex, rjust, rpartition, rsplit, rstrip, split, splitlines, startswith, strip, swapcase, title, translate, upper, zfill]
+
+------------
+List
+------------
+[__add__, __class__, __contains__, __delattr__, __delitem__, __delslice__, __doc__, __eq__, __format__, __ge__, __getattribute__, __getitem__, __getslice__, __gt__, __hash__, __iadd__, __imul__, __init__, __iter__, __le__, __len__, __lt__, __mul__, __ne__, __new__, __reduce__, __reduce_ex__, __repr__, __reversed__, __rmul__, __setattr__, __setitem__, __setslice__, __sizeof__, __str__, __subclasshook__, append, count, extend, index, insert, pop, remove, reverse, sort]
+
+------------
+os
+------------
+[EX_CANTCREAT, EX_CONFIG, EX_DATAERR, EX_IOERR, EX_NOHOST, EX_NOINPUT, EX_NOPERM, EX_NOUSER, EX_OK, EX_OSERR, EX_OSFILE, EX_PROTOCOL, EX_SOFTWARE, EX_TEMPFAIL, EX_UNAVAILABLE, EX_USAGE, F_OK, NGROUPS_MAX, O_APPEND, O_ASYNC, O_CREAT, O_DIRECTORY, O_DSYNC, O_EXCL, O_EXLOCK, O_NDELAY, O_NOCTTY, O_NOFOLLOW, O_NONBLOCK, O_RDONLY, O_RDWR, O_SHLOCK, O_SYNC, O_TRUNC, O_WRONLY, P_NOWAIT, P_NOWAITO, P_WAIT, R_OK, SEEK_CUR, SEEK_END, SEEK_SET, TMP_MAX, UserDict, WCONTINUED, WCOREDUMP, WEXITSTATUS, WIFCONTINUED, WIFEXITED, WIFSIGNALED, WIFSTOPPED, WNOHANG, WSTOPSIG, WTERMSIG, WUNTRACED, W_OK, X_OK, _Environ, __all__, __builtins__, __doc__, __file__, __name__, __package__, _copy_reg, _execvpe, _exists, _exit, _get_exports_list, _make_stat_result, _make_statvfs_result, _pickle_stat_result, _pickle_statvfs_result, _spawnvef, abort, access, altsep, chdir, chflags, chmod, chown, chroot, close, closerange, confstr, confstr_names, ctermid, curdir, defpath, devnull, dup, dup2, environ, errno, error, execl, execle, execlp, execlpe, execv, execve, execvp, execvpe, extsep, fchdir, fchmod, fchown, fdopen, fork, forkpty, fpathconf, fstat, fstatvfs, fsync, ftruncate, getcwd, getcwdu, getegid, getenv, geteuid, getgid, getgroups, getloadavg, getlogin, getpgid, getpgrp, getpid, getppid, getsid, getuid, initgroups, isatty, kill, killpg, lchflags, lchmod, lchown, linesep, link, listdir, lseek, lstat, major, makedev, makedirs, minor, mkdir, mkfifo, mknod, name, nice, open, openpty, pardir, path, pathconf, pathconf_names, pathsep, pipe, popen, popen2, popen3, popen4, putenv, read, readlink, remove, removedirs, rename, renames, rmdir, sep, setegid, seteuid, setgid, setgroups, setpgid, setpgrp, setregid, setreuid, setsid, setuid, spawnl, spawnle, spawnlp, spawnlpe, spawnv, spawnve, spawnvp, spawnvpe, stat, stat_float_times, stat_result, statvfs, statvfs_result, strerror, symlink, sys, sysconf, sysconf_names, system, tcgetpgrp, tcsetpgrp, tempnam, times, tmpfile, tmpnam, ttyname, umask, uname, unlink, unsetenv, urandom, utime, wait, wait3, wait4, waitpid, walk, write]
+
+------------
+sys
+------------
+[__displayhook__, __doc__, __excepthook__, __name__, __package__, __stderr__, __stdin__, __stdout__, _clear_type_cache, _current_frames, _getframe, _mercurial, api_version, argv, builtin_module_names, byteorder, call_tracing, callstats, copyright, displayhook, dont_write_bytecode, exc_clear, exc_info, exc_type, excepthook, exec_prefix, executable, exit, flags, float_info, float_repr_style, getcheckinterval, getdefaultencoding, getdlopenflags, getfilesystemencoding, getprofile, getrecursionlimit, getrefcount, getsizeof, gettrace, hexversion, long_info, maxint, maxsize, maxunicode, meta_path, modules, path, path_hooks, path_importer_cache, platform, prefix, py3kwarning, setcheckinterval, setdlopenflags, setprofile, setrecursionlimit, settrace, stderr, stdin, stdout, subversion, version, version_info, warnoptions]
+
+------------
+re
+------------
+[DEBUG, DOTALL, I, IGNORECASE, L, LOCALE, M, MULTILINE, S, Scanner, T, TEMPLATE, U, UNICODE, VERBOSE, X, _MAXCACHE, __all__, __builtins__, __doc__, __file__, __name__, __package__, __version__, _alphanum, _cache, _cache_repl, _compile, _compile_repl, _expand, _locale, _pattern_type, _pickle, _subx, compile, copy_reg, error, escape, findall, finditer, match, purge, search, split, sre_compile, sre_parse, sub, subn, sys, template]
+
+------------
+subprocess
+------------
+[CalledProcessError, MAXFD, PIPE, Popen, STDOUT, _PIPE_BUF, __all__, __builtins__, __doc__, __file__, __name__, __package__, _active, _args_from_interpreter_flags, _cleanup, _demo_posix, _demo_windows, _eintr_retry_call, _has_poll, call, check_call, check_output, errno, fcntl, gc, list2cmdline, mswindows, os, pickle, select, signal, sys, traceback, types]
+
+------------
+platform
+------------
+[DEV_NULL, __builtins__, __copyright__, __doc__, __file__, __name__, __package__, __version__, _abspath, _architecture_split, _bcd2str, _default_architecture, _dist_try_harder, _follow_symlinks, _ironpython26_sys_version_parser, _ironpython_sys_version_parser, _java_getprop, _libc_search, _lsb_release_version, _mac_ver_gestalt, _mac_ver_lookup, _mac_ver_xml, _node, _norm_version, _parse_release_file, _platform, _platform_cache, _popen, _pypy_sys_version_parser, _release_filename, _release_version, _supported_dists, _sys_version, _sys_version_cache, _sys_version_parser, _syscmd_file, _syscmd_uname, _syscmd_ver, _uname_cache, _ver_output, _win32_getvalue, architecture, dist, java_ver, libc_ver, linux_distribution, mac_ver, machine, node, os, platform, popen, processor, python_branch, python_build, python_compiler, python_implementation, python_revision, python_version, python_version_tuple, re, release, string, sys, system, system_alias, uname, version, win32_ver]
+
+------------
+shutil
+------------
+[Error, ExecError, SpecialFileError, WindowsError, _ARCHIVE_FORMATS, __all__, __builtins__, __doc__, __file__, __name__, __package__, _basename, _call_external_zip, _destinsrc, _get_gid, _get_uid, _make_tarball, _make_zipfile, _samefile, abspath, collections, copy, copy2, copyfile, copyfileobj, copymode, copystat, copytree, errno, fnmatch, get_archive_formats, getgrnam, getpwnam, ignore_patterns, make_archive, move, os, register_archive_format, rmtree, stat, sys, unregister_archive_format]
+
+------------
+argparse
+------------
+[Action, ArgumentDefaultsHelpFormatter, ArgumentError, ArgumentParser, ArgumentTypeError, FileType, HelpFormatter, Namespace, ONE_OR_MORE, OPTIONAL, PARSER, REMAINDER, RawDescriptionHelpFormatter, RawTextHelpFormatter, SUPPRESS, ZERO_OR_MORE, _, _ActionsContainer, _AppendAction, _AppendConstAction, _ArgumentGroup, _AttributeHolder, _CountAction, _HelpAction, _MutuallyExclusiveGroup, _StoreAction, _StoreConstAction, _StoreFalseAction, _StoreTrueAction, _SubParsersAction, _UNRECOGNIZED_ARGS_ATTR, _VersionAction, __all__, __builtins__, __doc__, __file__, __name__, __package__, __version__, _callable, _collections, _copy, _ensure_value, _get_action_name, _os, _re, _sys, _textwrap]
+
+------------
+test
+------------
+[__builtins__, __doc__, __file__, __name__, __package__, __path__]
+
+------------
+xml
+------------
+[_MINIMUM_XMLPLUS_VERSION, __all__, __builtins__, __doc__, __file__, __name__, __package__, __path__]
+
+------------
+time
+------------
+[__doc__, __file__, __name__, __package__, accept2dyear, altzone, asctime, clock, ctime, daylight, gmtime, localtime, mktime, sleep, strftime, strptime, struct_time, time, timezone, tzname, tzset]
+
+------------
+urllib2
+------------
+[AbstractBasicAuthHandler, AbstractDigestAuthHandler, AbstractHTTPHandler, BaseHandler, CacheFTPHandler, FTPHandler, FileHandler, HTTPBasicAuthHandler, HTTPCookieProcessor, HTTPDefaultErrorHandler, HTTPDigestAuthHandler, HTTPError, HTTPErrorProcessor, HTTPHandler, HTTPPasswordMgr, HTTPPasswordMgrWithDefaultRealm, HTTPRedirectHandler, HTTPSHandler, OpenerDirector, ProxyBasicAuthHandler, ProxyDigestAuthHandler, ProxyHandler, Request, StringIO, URLError, UnknownHandler, __builtins__, __doc__, __file__, __name__, __package__, __version__, _cut_port_re, _have_ssl, _opener, _parse_proxy, _safe_gethostbyname, addinfourl, base64, bisect, build_opener, ftpwrapper, getproxies, hashlib, httplib, install_opener, localhost, mimetools, os, parse_http_list, parse_keqv_list, posixpath, proxy_bypass, quote, random, randombytes, re, request_host, socket, splitattr, splithost, splitpasswd, splitport, splittag, splittype, splituser, splitvalue, ssl, sys, time, toBytes, unquote, unwrap, url2pathname, urlopen, urlparse, warnings]
+
+------------
+getopt
+------------
+[GetoptError, __all__, __builtins__, __doc__, __file__, __name__, __package__, do_longs, do_shorts, error, getopt, gnu_getopt, long_has_args, os, short_has_arg]
+

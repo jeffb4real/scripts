@@ -1,0 +1,8 @@
+blue
+(1, 4, 'text', 6)
+3
+a
+abc
+['d', 'e', 'f']
+ghi
+{'color': 'red', 'girl': 'blonde'}

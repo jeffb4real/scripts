@@ -1,0 +1,4 @@
+{
+  "regex_test.py": true, 
+  "test_module.py::TestSomething::()::test_something": true
+}

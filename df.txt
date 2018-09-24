@@ -1,0 +1,14 @@
+Filesystem                                       Size   Used  Avail Capacity  iused   ifree %iused  Mounted on
+/dev/disk1                                       250G   226G    23G    91% 55284774 5694040   91%   /
+devfs                                            334k   334k     0B   100%     1130       0  100%   /dev
+map -hosts                                         0B     0B     0B   100%        0       0  100%   /net
+map auto_home                                      0B     0B     0B   100%        0       0  100%   /home
+/dev/disk2s1                                     250G   108G   142G    44%   825669 1082040   43%   /Volumes/Samsung_T3
+//guest:@localhost:52047/%5BC%5D%20Windows%207    69G    31G    38G    45%  7518091 9233010   45%   /Volumes/C
+Filesystem                                       Size   Used  Avail Capacity  iused   ifree %iused  Mounted on
+/dev/disk1                                       250G   226G    24G    91% 55198113 5780701   91%   /
+devfs                                            334k   334k     0B   100%     1130       0  100%   /dev
+map -hosts                                         0B     0B     0B   100%        0       0  100%   /net
+map auto_home                                      0B     0B     0B   100%        0       0  100%   /home
+/dev/disk2s1                                     250G   108G   142G    44%   825669 1082040   43%   /Volumes/Samsung_T3
+//guest:@localhost:52047/%5BC%5D%20Windows%207    69G    32G    37G    46%  7700831 9050270   46%   /Volumes/C

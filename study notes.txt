@@ -1,0 +1,12 @@
+15-Nov-2016
+
+TDD: test-triven development, aka "red, green, refactor"
+
+
+
+
+----
+16-Nov-2016
+
+
+

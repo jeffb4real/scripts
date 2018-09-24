@@ -1,0 +1,8 @@
+# Notebook
+#------------
+
+OOPS: inheritance, polymorphism (compile time: overloading; run time: override), encapsulation, abstraction)
+
+JAVA: == is comparison operator, compares reference/address; .equal compares the contents, e.g. string vs. string
+
+https://www.toptal.com//python/python-class-attributes-an-overly-thorough-guide

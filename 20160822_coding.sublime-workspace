@@ -1,0 +1,1145 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bin",
+				"bin_string"
+			],
+			[
+				"num",
+				"numsteps"
+			],
+			[
+				"suc",
+				"successor_list"
+			],
+			[
+				"succ",
+				"successor"
+			],
+			[
+				"successor",
+				"successor_list"
+			],
+			[
+				"some",
+				"sometext"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Notebook for Coding.txt",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Unix",
+				"name": "# Notebook"
+			}
+		},
+		{
+			"file": "filereading.py",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Unix",
+				"name": "#!/usr/bin/python"
+			}
+		},
+		{
+			"file": "CLIoptions.py",
+			"settings":
+			{
+				"buffer_size": 749,
+				"line_ending": "Unix",
+				"name": "#!/usr/bin/python"
+			}
+		},
+		{
+			"file": "/Users/urieow/bin/hddfree",
+			"settings":
+			{
+				"buffer_size": 133,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "df.txt",
+			"settings":
+			{
+				"buffer_size": 1520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "walk_dir.py",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Unix",
+				"name": "from os import walk"
+			}
+		},
+		{
+			"file": "format_test.py",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix",
+				"name": "#!/usr/bin/python"
+			}
+		},
+		{
+			"file": "list_files.py",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix",
+				"name": "import os"
+			}
+		},
+		{
+			"file": "mbyn.py",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"line_ending": "Unix",
+				"name": "# There is a grid of size M x N.  The top left cor"
+			}
+		},
+		{
+			"file": "mbyn_terse.py",
+			"settings":
+			{
+				"buffer_size": 1343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mbyn_recursion.py",
+			"settings":
+			{
+				"buffer_size": 1070,
+				"line_ending": "Unix",
+				"name": "#!/usr/bin/python"
+			}
+		},
+		{
+			"file": "glob_example.py",
+			"settings":
+			{
+				"buffer_size": 342,
+				"line_ending": "Unix",
+				"name": "# https://pymotw.com/2/glob/"
+			}
+		},
+		{
+			"file": "Chopped.py",
+			"settings":
+			{
+				"buffer_size": 18436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "successors.py",
+			"settings":
+			{
+				"buffer_size": 1500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "regex_test.py",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "function_decorators.py",
+			"settings":
+			{
+				"buffer_size": 777,
+				"line_ending": "Unix",
+				"name": "import os"
+			}
+		},
+		{
+			"file": "clip_naming_example.py",
+			"settings":
+			{
+				"buffer_size": 1113,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "if_name_equals_main.py",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ipadd.txt",
+			"settings":
+			{
+				"buffer_size": 171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "perl_block_printing.pl",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "parseip.sh",
+			"settings":
+			{
+				"buffer_size": 518,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/urieow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/urieow/Uploads/Dropbox/My Documents/Work - in progress/Job Listings.txt",
+			"settings":
+			{
+				"buffer_size": 7157,
+				"line_ending": "Unix",
+				"name": "10-May-2016"
+			}
+		},
+		{
+			"contents": "kitty_kittie\n46•Oakland, CA• 94% Match 4% Enemy\n 	Straight, Woman, Single, 5’ 7”, Curvy\n 	White, Speaks English, Attended Post grad\n 	Never smokes, Drinks socially, Sometimes does drugs, Vegetarian, Doesn’t have kids, Has cats, Leo\nLooking for\nsingle men, near me, ages 40‑54, for short & long term dating and new friends.\n\nMy self-summary\nMe: Plaintiffs' lawyer, creative, perceptive, thoughtful, non-conformist, crunchy lefty vegetarian. Yogi, gardener, pianist and singer. Curvy, fit and healthy. Deeply affected by the beauty of music, art, words, nature, and human kindness. A friendly introvert with a circle of great people in my life. A Midwestern girl at my core, even though I've lived here longer than there. A giver. Optimistic and hopeful.\n\nYou: Good-hearted and kind. Smart. A grownup. Principled and strong. Probably not the alpha male type, but with a certain core of masculinity that will make my knees go weak. Also a giver, also open, also hopeful.\n\nUs: Deep connection, great communication, intimacy on several levels, cracking each other up, having adventures together, wanting each other, challenging each other's comfort zones.\n\nI’m really good at\nMaking music, writing, cooking without a recipe.\n\nFavorite books, movies, shows, music, and food\nFavorite book is To Kill A Mockingbird.\n\nFavorite movie is Besieged by Bernardo Bertolucci.\n\nStill heartbroken over Jon Stewart's departure from The Daily Show.\n\nPurple Rain, everything from Jason Robert Brown's Parade, and Scriabin's Etude in D-sharp minor.\n\nKind of a foodie. Love good ingredients.\n\nThe six things I could never do without\nMy two beautiful 17-year-old cats.\nAbility to express myself through music.\nFriends who will step up and be there for me when I need them.\nMy yoga practice and community.\nCoffee and wine, not necessarily in that order.\nMy analytical brain that works hard to sort things out.\n\nI spend a lot of time thinking about\nMy cases. The Presidential election. Cabbage worms.\n\nOn a typical Friday night I am\nrelieved to get a break from arguing with people. Possibly headed to yoga.\n\nYou should message me if\nYou're a person of quality and character, you're seeking a meaningful connection, and you think we might be compatible.\n\nThe two of us\nSee questions\n90%\nLifestyle\n88%\nEthics\n85%\nDating\n82%\nOther\n80%\nSex\n74%\nReligion\n\nPersonality\n More Ambitious  More Compassionate  More Political  Less Conservative  More Indie  More Good-natured  More Friendly  More Wholesome  More Experienced  More Giving  More Scientific  Less Spiritual  More Progressive\n\n----\n12-June\nEven if we can't agree on how to spell kitty, seems like we should at least read each other's profiles.  :)\n\n----\n13-June\nI think I was thinking about Eric Cartman and his misbehaving kitty. Don't worry though, I never yell at my cat like that ;) Buddy just turned 8 yo, hard to imagine him hanging around as long as your kitties. That's really something! Do you feed them the George Burns diet? (And how did you get them to ash their cigars in the tray??)\n\nThanks for messaging me :) I saw a lot to like in your profile. And we appear to match numerically and textually (word choice?) Last night I got busy with grilling a couple whole eggplants, mixed them with tahini and called it baba ghanoush--not too bad! What's cooking with you?\nJeff\n\n----\n15-June\nHi Jeff,\n\nSorry for the delayed response. It's been a crazy week, between work and the fallout from Orlando. It's good to have a quiet moment. \n\nI'm really impressed with your profile. There's a lot of good stuff there, and I like your upbeat attitude, thoughtfulness, little dose of humility, and sense of humor. I've been all about putting down roots and making connections lately too. I just moved to Oakland a few months ago, and transformed a backyard full of weeds into a beautiful (if I may say so myself) vegetable and flower garden, and it's been a great way to meet all of the neighbors. There's something so nice and homey about seeing their comings and goings and chatting over the fence while I'm pruning or watering. My garden makes everyone smile - what could be better?\n\nFun fact: my mom was a kitchen designer before she retired, and she designed a kitchen for Martin Yan. Also, when I cook I often pretend in my head that I'm hosting my own cooking show. Another fun fact: four of the items on your favorite ingredients list are growing in my garden right now. Have you tried burnet? I think it might make the list. I'm growing that too. \n\nYour little gray kitty looks so soft. :) I love cats.\n\nThe compersion thing - yes. I was just having a conversation about how non-poly people like me could benefit from adopting some of the principles used by the poly community. Open communication and upfront disclosure and encouraging each other's full actualization - imagine that. :) \n\nI'm definitely a nice person, and I generally have my head on straight although honestly since the whole Orlando thing my ability to make that claim is somewhat suspended. So many of my friends are so deeply hurt by it. It's a lot to wrap your head around.\n\nWell, I should think that's enough for now! Thank you for messaging me. Perhaps you'll do so again. Maybe you'll tell me about your guitar playing and whether your appreciation of cute boy/girl duets extends to singing them. :)\n\nI hope you have a good day.\nLisa\n\n----\n16-June\nWow! So much I want to respond to. You really got me thinking about burnet too. I found this page:\nhttp://naturehacks.com/medicinal-and-culinary-uses-of-burnet-and-its-nutrition/\nAnd then I ordered some seeds off eBay! I'm curious how you came to know about it? I'm not a plant/herb expert, but it is a hobby and it's a little rare for me to find an herb I've never even heard of. Especially such a useful one. So, thanks!\n\nThat's so neat that your own Mom worked with Martin Yan. I saw him do a demo once at the Alameda County Fair. I was a surly young man, but still a little star-struck for having watched him on TV so much. That internal voiceover of yours, while you're cooking--I know that feeling! Maybe it means there's something there for you to explore? I'm having recurring fantasies about making YouTube videos. Not sure yet what that means... What would your YouTube channel be about?\n\nMaybe I should say I \"use\" guitar. Music plays an important role in stress relief. Sometimes I go for weeks without picking it up. Other times I play every day or get real hot on a particular song. Most recently it was Dead Meat (Sean Lennon) and Waterloo Sunset (Kinks). It's a real grab-bag of half-perfected gems for me. I really admire actual musicians. As for singing...well, I try to croak out a few notes. I can sing in key, if I can hit the notes. My range is about 3 half-steps :) What kind of stuff do you sing? I'm imagining cute, bright-eyed critters following you around your garden while you're singing and watering. Is this true?\n\nThanks for all your kind words. I'm getting lots of good vibes from you too. I live quite near the Bal Theatre, in San Leandro. What part of Oakland are you in? Have you lived in the East Bay long, or have you escaped from SF? Your garden sounds most excellent, btw.\n\n----\n16-June\nYay - I'm glad you wrote back. The Bal Theatre looks very cool. Godzilla Fest 5 - I don't know that it gets much better than that.\n\nA lot of my singing is done on the karaoke stage - it's pretty much the funnest thing ever. Do you ever go? I think I’ve recently reached a new level in figuring out how to shed my inhibitions and really sing the hell out of a song. It doesn’t work every time, but when it does it feels amazing. My karaoke friends and I call it therapy. Like your guitar playing. I have to admit I don’t know either of the songs you mentioned. I’ll have to look them up. \n\nI do sing in the garden a little bit. I was working from home when I found out that Prince died, and the news propelled me right into the garden, and I hummed Purple Rain and cried all afternoon. Were you sad too? Thank you for the image of cute little bunny rabbits and bluebirds cavorting around me while I work. Yes, it’s exactly like that. \n\nI found burnet the first time I went shopping at the glorious Berkeley Horticultural Nursery. I hadn’t heard of it before that. It zings up a salad. Do you have a garden too?\n\nMy YouTube channel. Don’t get me started about my fantasies of having my own tiny farming operation (with no animals harmed, of course), or being in some kind of cooperative thing where I grow the vegetables for the whole community. Some kind of pioneer woman-type thing. Or maybe that’s just my overworkedness talking, and it would really be about marinating tofu and chopping collard greens. Something earthy and food-related, with the cats as costars. What would (will) yours be? \n\nI moved to Oakland 8 months ago. Before that I was in SF with my then-boyfriend of seven years. I really like it here. I’m in the Laurel District. How long have you been in San Leandro?\n\n:)\nLisa\n\n----\n19-June\nDid I mention one of your dealbreakers in my last message?  I understand - some people really don't like karaoke or collard greens... :)\n\n----\n20-June\nNaw, I bought some collard greens today. I love all the brassicas! (Although for some reason I never buy mustard greens..?) Karaoke seems fine, I just never attend. I'm not against it in any way. Therefore, I must just apologize for being so tardy with this reply. A whole lot of something has been going on over here, I suppose. I'll admit this much: having not watched any sports in decades, I got drawn into the Warriors saga. It's half not my fault, the Bal Theatre has been screening the games for free. I've been easing myself into it, and have yet to watch a full game. But I was enjoying the crowd and the spirit. And that final game last night was some great basketball. I mean, it seemed great, what do I know? I think if I had to pick a sport it'd be basketball. At the very least, it's not football. Sports?\n\nI wasn't too sad about Prince, but I can understand the gravity. From the Purple Rain days (when that musical genre was not my cup of tea), I grew to admire and respect him. Somehow I'd seen his interview on Tavys Smiley, feeling what a rare occassion that was. He was so smart and talented. It seems we've lost a lot of musical geniuses in recent years (Lou Reed, BB King, Bowie, etc.) The times they are a' changin' (oops--hang in there Dylan!!)\n\nI've had gardens and grow a few edible things, but these days there's just a lot of yard work. There's a part of my yard that's reverted to jungle, so I'm trying to keep the rest of it from going feral. The cute bunnies quit this place, but I've got hummingbirds in spades! And there's blue jays, and, lately, lots of baby birds chirping around. And possums, raccoons, squirrels, mice too. It's not my fault, I feed Buddy inside. Maybe it's my proximity to the EBRPD (Lake Chabot).\n\nI've lived here for about 9 years, and spent the previous 9 years in Berkeley. Funny, I never made it to the Berkeley Horticultural Nursery, but I was an apartment dweller back then. Moving here was a real dream come true! And then a whole bunch of stuff started getting in the way of that. I'm still hanging in there though, and I appreciate San Leandro more than ever.\n\nOne of my most favorite youtubers is hellorodney. I don't imagine you (or most people) would get much out of his channel. But for me, his videos are like messages from my future self, 20 years from now. I want to imitate him in a sort of parody video--I don't know why! But if I can't stop thinking about it, I'll have to do it. YouTube is so great, but lately I've been binge-watching episodes of California Gold with Huell Howser, from the early 1990s. I love that these videos have become time capsules about our great and dynamic state and all the different people in it. I think I want to be Huell too. Can you discern a pattern here?\n\nI'm going to go eat collard greens now. What's been going on with you--how was your weekend? Are you enjoying our weather?\n\n----\n21-June\nWeekend was good - about equally divided between work, garden, family obligations, and fun time with friends. I wish I were spending more time on the last three items and a lot less time on the first. One of my cases might settle this week; if it does, I'll take a well-deserved week off. I just want to get in a canoe and float down the Russian River, with my phone and all other electronic devices left on shore. Vacation: much needed. I'm glad it's summer. Did you see the sky last night?\n\nHow did you fix your collard greens? I like to simmer them in vegetable broth until the broth is pretty much absorbed/boiled off, then toss that with leeks and garlic sauteed in olive oil.\n\n----\n21-June\nHappy Solstice! Just the right time of year for floating down rivers. I think we had a full moon last night, right? I caught a glimpse while busy with other stuff. If this hot weather keeps up, I think I'm gonna camp in the back yard!\n\nI'd usually cook dark leafy green in a pan with a little oil and sliced garlic. But I steamed these collards with black pepper, red onion and garlic cloves, then topped them with a vinaigrette (fresh lemon juice, olive oil, salt). I don't know, I wasn't that impressed with myself. I was just trying to be more healthful and not cook them to death--but maybe that's what makes them delicious? I'm sure frying the onions & garlic on the side would have added a lot. Leeks: yuuuummmmm!!!\n\nYou mentioned marinating tofu; this is a project I got all hot and bothered about some years ago. Starting with raw tofu, I dehydrated it a bit, marinated it, then smoked it in a Camerons stovetop smoker. I was real happy with the final product. I felt like the dehydrating helped draw in the marinade.\n\nPretty sure I could go on endlessly with all my thoughts on preparing food. I'm super opinionated about how to make peanut butter & jelly sandwiches! :)\n\nDo you like bubble tea? Maybe we could some time?\nhttps://www.yelp.com/biz/quickly-oakland-4\n\n---\n21-June\nI love to hit dark leafy greens with a splash of fruity balsamic vinegar just before serving. So good. I have fig/orange balsamic that's perfect for the task. It's better with kale than collards. For collards I just love the butteriness of the leeks. What a couple of food dorks we are. I put up a blog with my vegan recipes a few years ago, because people were always asking for them. I even got into making my own soymilk for a while. And I veganized a recipe for lemon rosemary cupcakes that is seriously to die for. Like the best thing you've ever tasted. And I made really good seitan. \n\nI'm starting to collect tomato recipes now, since I'm going to have approximately one million ripe tomatoes pretty soon. If you run across any good tomato recipes or ideas, please feel free to send them my way.\n\nI haven't had bubble tea in a while. I like the idea. We could do that, although these first-meeting things make me nervous and I usually would prefer an adult beverage and a place that's slightly less brightly lit. But maybe it wouldn't kill me to branch out a little bit. I'm trying to be less rigid in general. I'm pretty sure I've made exactly zero progress on that so far, but I've at least set it as a goal. We all have to try to continue to grow, right? Good times. \n\nCreamy or chunky?\n\n----\n21-June\nChunky, of course 😋\nI'm in Fremont, meeting a friend for dinner...Dish n Dash, it's called. Gotta love suburban exploration. There's bubble tea nearby. Really I've not had it in years, but I do enjoy it. I'll msg again later!\n\n----\nHad the longest dinner ever, bubble tea too, but it was sooo nice to catch up with my old friend. We used to work together, and we email occasionally, but I hadn't seen him in over a year. I loved Dish n Dash! I wish more restaurants had a modular style menu like theirs (see the yelp page for a picture). Their roasted (maybe deep-fried?) cauliflower really made me scratch my head--I had no idea you could make cauliflower do that! Delicious.\n\nMmm balsamic. My lemon juice vinaigrette was too tart. So have you ever tried fermenting veggies? I got into it pretty deep for a while, which culminated in me fermenting sauerkraut underneath my desk at work. It was all going pretty well until I really overdid it on the garlic. Which actually wasn't so bad, smell-wise, until it came time to transfer from the crock to jars and one of my coworkers noticed, real bad! I later got an opportunity to meet Sandor Katz (a legendary fermentation fetishist), and told him about my workplace ferments as he was signing my book. I know, super geeky!\n\nLean into the discomfort, right? Though I'm all for our first meet not being a white-knuckle event. That bubble tea place sure isn't fancy, it's just nearby. I could also go for an adult beverage--maybe there's a good place in your 'hood? I do have plans tomorrow (Wed) but Thur/Fri evenings are wide open, and all day Sunday. I think it's nice to walk and talk too, and for sure I could use the exercise. Let me know what you think, whenever you think it ;)\n\n----\n22-June\nIf I had a nickel for every time one of my OK Cupid matches used the phrase legendary fermentation fetishist... :) \n\nI'm jumping on a telephonic hearing right now (wish me luck) - will write more later.\n\n----\n22-June\nWhew - what a drama-filled morning. \n\nI'm glad you had a good dinner and got your bubble tea. :) \n\nI neglected to thank you for both suggesting a place where we could meet and choosing a place that's near my home. That's really nice of you and I appreciate it - thank you. I would like to meet you in person, and Friday works for me. I can work on finding a place if you can tell me what time you would be available to meet. Or if you have ideas, that would work too. \n\nIt's kind of hilarious that you fermented sauerkraut under your desk at work. There's probably a story about that posted by your coworkers on the internet. I haven't done the fermentation thing. I'm gearing up to can some tomato puree this summer. \n\n:)\n\n----\n22-June\nAww, shucks. I try to be easy-going, but not annoyingly indecisive or lacking in suggestions. And not overly opinionated, or one of those people who has to express opinions on every single thing. It's a fine line to walk for us non-alpha males. I'll bet you're really wondering now, who is this guy?? And why on Earth is he talking about fermentation fetish?!?\n\nNearly any time Friday evening works for me, say 6 pm or later? I'm looking forward to meeting you! (in a low-pressure, relaxed kind of way)\n\n----\n22-June\nHahahaa - you totally just made me laugh. It was the part about \"us non-alpha males.\" Well done. :)\n\nThere's a place I've been wanting to try called Portal - it has the added bonus of being right by the lake in case we really want to go for a walk. We could meet there at 6:15? http://www.portaloakland.com/ \n\nI'm not *that* neurotic, by the way. If \"more neurotic\" were one of those factors on the OK Cupid chart like \"more wholesome\" and \"more indie,\" I would probably be sort of far over to the right as compared to the general population of straight women my age but much closer to the middle as compared to other lawyers. Boy I bet you're really looking forward to Friday now. I really know how to sell myself. :)\n\nSo 6:15 on Friday? I'm looking forward to meeting you too.\n\n----\n23-June\nHave you been eyeing Mr. Pickles and Garbage Bread?? I was! Portal looks great, and 6:15pm is perfect. I'm looking forward to seeing you then/there.\n\nMeanwhile...a thought has been brewing in my head. It seems useful to mention, although the exact words are evasive and troublesome. It goes kinda like this: I don't want to date someone who's a pro at dating. Bring your self, your real self, as authentically you as you can, including all the parts that unravel or don't seem to measure up or that you're unsure of. I will too. That way it'll be fun and exciting! I promise to behave myself, even though, statistically speaking, most women I've seen appear to think \"drinks and groping\" would make for the best first date. :))\n\n----\n23-June\nI can confidently assure you that I'm not a pro at dating. And I agree - the foibles and alleged imperfections are the best part. The way you put it is lovely - thank you. I think we'll have fun after the first five minutes of jitters. Also, despite my self-deprecating moments, you should be prepared for me to be amazing. So there. :) See you tomorrow. PS - do \"most women\" really answer the question that way? Somebody should tell them there's this thing called Tinder...\n\n----\n23-June\nOh I definitely don't want to be an okcupid pro either, but, yes, 'drinks and groping' seems to be real popular. I also prefer not to be a pro about women in general; it's okay that they're still mostly a mystery to me!\n\nYou are amazing! :)\n\n----\n23-June\n:)\n\n----\n25-June\nHi Jeff,\n\nJust a quick note to say thank you for last night, and tell you that I really enjoyed it and enjoyed getting to know you better. I feel like we laughed a lot. :) I'd like to get together again if you would. My email address (the original one I created in 1995) is conbrio@pacbell.net.\n\nHope your weekend is going well.\n:)\nLisa\n\n----\n25-June\nThanks Lisa :) I had a good time with you too -- glad we could share some laughs! We should get together again soon...maybe bubble tea? ;) And/or maybe I could interest you in a easy hike at Lake Chabot some time? There's lots to like about the place, but, practically speaking, the trail I have in mind is paved, shady, and pretty. And there's lots of bathrooms along the way.\n\nHave you ever heard of Esperanza Spalding? I think she worked with Prince at some point. This video caught my attention recently. The first three songs are particularly catchy, and \"Rest In Pleasure\" is super pretty. What do you think?\n\n----\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"file": "/Users/urieow/Uploads/Dropbox/_OKC/kitty_kittie/kitty_kittie.txt",
+			"file_size": 21868,
+			"file_write_time": 1466928056000000,
+			"settings":
+			{
+				"buffer_size": 21833,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/urieow/Uploads/Dropbox/_OKC/ok_kitteh/kitty_kittie.txt",
+			"settings":
+			{
+				"buffer_size": 3210,
+				"line_ending": "Unix",
+				"name": "This is too wound up for me. I don't have all my s"
+			}
+		},
+		{
+			"contents": "Steve Jobs lost interview\n\nNight Patrol (1982)\n\n",
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Unix",
+				"name": "Steve Jobs lost interview"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/urieow/scripts/Chopped.py",
+		"/Users/urieow/scripts/getopt.pyc",
+		"/Users/urieow/Uploads/Dropbox/_OKC/ok_kitteh/ok_kitteh_20160720.txt",
+		"/Users/urieow/Uploads/Dropbox/_OKC/ok_kitteh/ok_kitteh.txt",
+		"/Users/urieow/Downloads/Chinese beef jerky.txt",
+		"/Users/urieow/Downloads/song idea.txt",
+		"/Users/urieow/Uploads/Dropbox/_OKC/ArtLoverRobin/ArtLoverRobin.txt",
+		"/Users/urieow/Uploads/Dropbox/_OKC/venusvitale/venusvitale.txt",
+		"/Users/urieow/Uploads/Dropbox/_OKC/kitty_kittie/kitty_kittie.txt",
+		"/Users/urieow/Downloads/Adobe Audition CS5.5 (v4) serial.txt",
+		"/Users/urieow/Uploads/Dropbox/_OKC/Templeofnoise/Templeofnoise.txt",
+		"/Users/urieow/Uploads/Dropbox/_OKC/Zuckerschnecke17/Zuckerschnecke17.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/Mtnsandwine67/Mtnsandwine67.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/imangelasue/imangelasue.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/lalahoop/lalahoop.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/InnerMystery/InnerMystery.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/andreatthecat/andreatthecat.txt",
+		"/Users/urieow/Desktop/Ballad of Big Nothing - Elliott Smith.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/lyndeebee/lyndeebee.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/luckysharksgirl/luckysharksgirl.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/ok_kitteh/ok_kitteh.txt",
+		"/Users/urieow/Uploads/Dropbox/_OKC/pickmejen/pickmejen.txt",
+		"/Users/urieow/Downloads/_Apps/BeyondCompare 4/License Key.txt",
+		"/Users/urieow/Downloads/anecq/anecq.txt",
+		"/Users/urieow/Downloads/_Audio apps/Soundtoys plugins/serial numbers.txt",
+		"/Users/urieow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/urieow/Uploads/Dropbox/My Documents/Work - in progress/Job Application History.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/Work - in progress/2016 Daily Journals/20160424.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/Work - in progress/2016 Daily Journals/20160507.txt",
+		"/Users/urieow/Uploads/Dropbox/My Documents/_OKC/lyndeebee/luckysharksgirl.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"myperltest.pl",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\n\\n",
+			"'",
+			"edit essay",
+			"nUsage",
+			"Lisa",
+			";",
+			"   ",
+			"n",
+			"m",
+			"neurotic",
+			"singleton",
+			"huell",
+			"sing",
+			"BUY NOW",
+			"Product Name",
+			"Sent ",
+			", ",
+			"Sent ",
+			", ",
+			"\\n \\n",
+			"\\n\\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"\"",
+			"",
+			"    ",
+			"y",
+			"x",
+			"	m = n = 0\n	for j in this_path:\n		if int(j) == 0: m = m + 1\n		else:			n = n + 1\n	if ((m == M - 1) and (n == N -1)): return 1\n	else: return 0",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Notebook for Coding.txt",
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Notebook",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "filereading.py",
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/usr/bin/python",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CLIoptions.py",
+					"settings":
+					{
+						"buffer_size": 749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								749
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/usr/bin/python",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/urieow/bin/hddfree",
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "df.txt",
+					"settings":
+					{
+						"buffer_size": 1520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "walk_dir.py",
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from os import walk",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "format_test.py",
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								137
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/usr/bin/python",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "list_files.py",
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import os",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "mbyn.py",
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# There is a grid of size M x N.  The top left cor",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "mbyn_terse.py",
+					"settings":
+					{
+						"buffer_size": 1343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								745,
+								745
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "mbyn_recursion.py",
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/usr/bin/python",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "glob_example.py",
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# https://pymotw.com/2/glob/",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Chopped.py",
+					"settings":
+					{
+						"buffer_size": 18436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "successors.py",
+					"settings":
+					{
+						"buffer_size": 1500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "regex_test.py",
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "function_decorators.py",
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								777,
+								548
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import os",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "clip_naming_example.py",
+					"settings":
+					{
+						"buffer_size": 1113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "if_name_equals_main.py",
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "ipadd.txt",
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "perl_block_printing.pl",
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "parseip.sh",
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/Users/urieow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/Users/urieow/Uploads/Dropbox/My Documents/Work - in progress/Job Listings.txt",
+					"settings":
+					{
+						"buffer_size": 7157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7157,
+								7157
+							]
+						],
+						"settings":
+						{
+							"auto_name": "10-May-2016",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/Users/urieow/Uploads/Dropbox/_OKC/kitty_kittie/kitty_kittie.txt",
+					"settings":
+					{
+						"buffer_size": 21833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21824,
+								21824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/Users/urieow/Uploads/Dropbox/_OKC/ok_kitteh/kitty_kittie.txt",
+					"settings":
+					{
+						"buffer_size": 3210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3208,
+								3208
+							]
+						],
+						"settings":
+						{
+							"auto_name": "This is too wound up for me. I don't have all my s",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Steve Jobs lost interview",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}

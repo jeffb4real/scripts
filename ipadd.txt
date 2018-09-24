@@ -1,0 +1,7 @@
+192.168.0.1 and some other text
+this time text before 192.168.255.255
+192.0.0.0text right behind
+text before 0.0.0.0 and after
+255.255.255.255
+127.125.123.121 %*(((*&)))
+
