@@ -1,0 +1,11 @@
+# This is a Unix shell script to show free disk space
+
+echo
+echo All disks:
+df -H
+
+echo
+echo Summary:
+df -H | awk '$1 ~ /disk1/ { print "disk1: ",$4," free"; }'
+# df -H | awk '$1 ~ /disk1/ { print $4 }'
+
